@@ -10,6 +10,8 @@ This is an AI-powered quiz application built using AI tools.
 ## Technologies Used
 - React / Next.js
 - TypeScript
+-css
+-javascript
 
 ## How to Run
 
